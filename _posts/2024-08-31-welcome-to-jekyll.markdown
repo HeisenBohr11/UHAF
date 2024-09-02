@@ -5,7 +5,7 @@ date:   2024-08-32 19:05:17 -0700
 categories: jekyll update
 ---
 
-Jodhpur is a city with over 11,000 people who are homeless. These people do not have access to medical care and are unable to get checkups. This is why we are partnering with King's Hospital to provide the best care care possible for the city of Jodhpur. We are running this alongside Dr. (Sidd dadu full name). This initiative will impact many peoples lives and can help in saving their lives
+Jodhpr is a beautiful city in the heart of Rajasthan. Its named the blue city due to its rich and vibrant blue hues painted all over houses. This look makes it one of the of the world's most unique citites. The food in Jodhpur is known all over the world, and its history is mesmerizing to learn. However, like in all cities across the world, Jodhpur has a lot of homelessness. This is why, I am partnering with Dr. Siddharth Lodha at Kings Hospital in Jodhpur to make medicine and doctors accessible to all. We will provide checkups, diagnosis, and required drugs for all who come. Even a donation as little as $5 dollars could make a difference in people's lives.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

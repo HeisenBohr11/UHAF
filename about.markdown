@@ -52,14 +52,12 @@ permalink: /about/
   <div class="post-content">
     <p>My name is Neelansh Bhandari, and I am currently a rising freshman at Skyline High School in Sammamish, Washington. My passion for medicine drives my ambition to become a neurosurgeon.</p>
 
-<p>During my time at Beaver Lake Middle School, I founded and captained the Science Bowl team, leading us to 3 wins out of 4. Additionally, I established the Science Olympiad Club and served as its founder, while achieving significant success with two awards at the State Competition. I also founded and currently serve as president of our school's math club.
+<p>During my time at Beaver Lake Middle School, I founded and captained the Science Bowl team, leading us to 3 wins out of 4. Additionally, I established the Science Olympiad Club and served as its founder, while achieving significant success with two awards at the State Competition. I also founded and currently serve as president of our school's math club. With these experiences in leadership, I beleive I have the capabilities to lead events and camps such as these to make a difference in people's lives. I want to use my skills to encourage others to donate and create positive impacts on people's physical, mental, and emotional health.
 </p>
 
-<p>Active in my community, I am a member of the National Junior Honor Society (NJHS) and contribute to my school's robotics club by teaching coding. In addition to my academic pursuits, I hold a gray belt in Jiu Jitsu and enjoy competing regularly. As a Boy Scout, I find great joy in camping and hiking. I am also fluent in 3 languages, English, French, and Hindi. Alongside that, I have a working knowledge of Spanish.</p>
+<p>Other than my leadership skills, I am also a trilingual, as I can speak English, Hindi, and French. This allows me to be able to communicate with different people all over the world. With this skill, I hope to aid people from all over the world and be able to save lives.</p>
 
-<p>In my leisure time, I am an avid cricket player and devote time to reading and watching movies. To unwind, I practice my guitar and piano, play board games with my family, and hang out with my friends.</p>
-
-<p>During my time in India, I noticed a lot of poverty and people living in unfathomable conditions. Those people were unable to afford medical care and that is the reason why I created this organization. Due to this, I hope many people will be able to access the health resources they require.
+<p>During the last couple years, I have grown older and realized that not all people are able to access basic needs such as shelter, food, health, and clean water. Many peple struggle each day to find food, treatment, or even a roof to be safe under. It is this that brought a change in me to create this organization which will provide care to all those who need it.
 </p>
 
   </div>
