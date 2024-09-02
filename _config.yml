@@ -21,13 +21,7 @@
 title: Universal Health Access Foundation
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Universal Health Access **Foundation** (*UHAF*) is dedicated
-
-
-  xdjffs
-
-
-  dwwdwede
+  The Universal Health Access Foundation (UHAF) is dedicated to changing people's lives for the better. We provide medical attention, provide medicines, and take care of patients for free. 
 baseurl: "/UHAF" # the subpath of your site, e.g. /blog
 url: "https://HeisenBohr11.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
