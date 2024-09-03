@@ -50,15 +50,14 @@ permalink: /about/
   </header>
 
   <div class="post-content">
-    <p>My name is Neelansh Bhandari, and I am currently a rising freshman at Skyline High School in Sammamish, Washington. My passion for medicine drives my ambition to become a neurosurgeon.</p>
+    I am  Neelansh Bhandari, currently a rising freshman at Skyline High School in Sammamish, Washington.  
+    
+    I love interacting with people and these interactions along with my personal experiences living in 3 continents have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. If you share the same passion, I encourage you to join me in this initiative or donate a small amount that can be used to provide free medical care and support to the remotest parts of the world.
+    
+    I am interested in Greek and Indian mythology, science and maths. During my time at Beaver Lake Middle School, I founded the Science Olympiad Club and captained the Science Bowl team. I also founded and served as the president of our school's math club. I enjoy reading, swimming, hiking, competing in Jiu Jitsu, playing cricket and learning. 
 
-<p>During my time at Beaver Lake Middle School, I founded and captained the Science Bowl team, leading us to 3 wins out of 4. Additionally, I established the Science Olympiad Club and served as its founder, while achieving significant success with two awards at the State Competition. I also founded and currently serve as president of our school's math club. With these experiences in leadership, I beleive I have the capabilities to lead events and camps such as these to make a difference in people's lives. I want to use my skills to encourage others to donate and create positive impacts on people's physical, mental, and emotional health.
-</p>
 
-<p>Other than my leadership skills, I am also a trilingual, as I can speak English, Hindi, and French. This allows me to be able to communicate with different people all over the world. With this skill, I hope to aid people from all over the world and be able to save lives.</p>
 
-<p>During the last couple years, I have grown older and realized that not all people are able to access basic needs such as shelter, food, health, and clean water. Many peple struggle each day to find food, treatment, or even a roof to be safe under. It is this that brought a change in me to create this organization which will provide care to all those who need it.
-</p>
 
   </div>
 
@@ -72,19 +71,7 @@ permalink: /about/
 
     <h2 class="footer-heading">Universal Health Access Foundation</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">Universal Health Access Foundation</li><li><a class="u-email" href="mailto:your-email@example.com">your-email@example.com</a></li></ul>
-      </div>
-
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/HeisenBohr11"><svg class="svg-icon"><use xlink:href="/UHAF/assets/minima-social-icons.svg#github"></use></svg> <span class="username">HeisenBohr11</span></a></li></ul>
-</div>
-
-      <div class="footer-col footer-col-3">
-        <p>The Universal Health Access **Foundation** (*UHAF*) is dedicated</p>
-      </div>
-    </div>
+    
 
   </div>
 
