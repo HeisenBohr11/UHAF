@@ -29,3 +29,11 @@ Om peace, peace, peace.*
 **Contact me at *uhaf24@gmail.com* to donate towards this cause and let me know how you heard about this initiative.**  
 I am yet to register as 501 (c)(3) and set up a proper donation page.  
 At present, I am only accepting contributions from friends, family and acquaintances, with a limit of $50 per contribution.  
+
+**We have recieved $200 so far! We are still $700 away from our goal.**
+
+**Thank you to all those who have donated to our mission:**
+*Mr. Dilip*
+*Mr. Arunachalam Sundararaman*
+*Mrs. Sushmitha Nitoor*
+*Ms. K.O*
