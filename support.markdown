@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Support
+permalink: /support/
 ---
 
 <html lang="en"><head>
@@ -10,18 +10,18 @@ permalink: /about/
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>About | Universal Health Access Foundation</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="About Me" />
+<meta property="og:title" content="Support" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="The Universal Health Access Foundation (UHAF) is dedicated" />
 <meta property="og:description" content="The Universal Health Access Foundation (UHAF) is dedicated" />
-<link rel="canonical" href="http://localhost:4000/UHAF/about/" />
-<meta property="og:url" content="http://localhost:4000/UHAF/about/" />
+<link rel="canonical" href="http://localhost:4000/UHAF/support/" />
+<meta property="og:url" content="http://localhost:4000/UHAF/support/" />
 <meta property="og:site_name" content="Universal Health Access Foundation" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="About Me" />
+<meta property="twitter:title" content="Support" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"The Universal Health Access Foundation (UHAF) is dedicated","headline":"About","name":"Universal Health Access Foundation","url":"http://localhost:4000/UHAF/about/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","description":"The Universal Health Access Foundation (UHAF) is dedicated","headline":"Support","name":"Universal Health Access Foundation","url":"http://localhost:4000/UHAF/support/"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/UHAF/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/UHAF/feed.xml" title="Universal Health Access Foundation" /></head>
 <body><header class="site-header" role="banner">
@@ -36,7 +36,7 @@ permalink: /about/
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/UHAF/about/">About Me</a></div>
+        <div class="trigger"><a class="page-link" href="/UHAF/support/">Support</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -44,19 +44,24 @@ permalink: /about/
         <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">About Me</h1>
+    <h1 class="post-title">Support</h1>
   </header>
 
-  <div class="post-content">
-   <p> I am <b>Neelansh Bhandari</b>, currently a rising freshman at Skyline High School in Sammamish, Washington.</p>
-         
-    
-    <p>I love interacting with people and these interactions along with my personal experiences living in 3 continents have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. If you share the same passion, I encourage you to join me in this initiative or donate a small amount that can be used to provide free medical care and support to the remotest parts of the world.</p>
+  <div class="post-content">    
+       <p>Currently, I am raising funds for two free medical camps for the underprivileged in remote and rural areas of Western Rajasthan, India. I will be there this December and will lead the camps in-person. I will post pictures and stories of people who benefited from this initiative. You can read more about this initiative <a href="{{ site.baseurl }}/"><b>HERE</b></a>.</p>
        
-    
-    <p>
-       I am interested in Greek and Indian mythology, science and maths. During my time at Beaver Lake Middle School, I founded the Science Olympiad Club and captained the Science Bowl team. I also founded and served as the president of our school's math club. I enjoy reading, swimming, hiking, competing in Jiu Jitsu, playing cricket and learning. </p>
+      
+<p>My goal is to collect $900 that will cover the cost of transportation and snacks for a team of doctors and their shpport staff, medicines and spreading awareness about the camps. </p>
        
+   
+       <p><b>Contact me at uhaf24@gmail.com to donate towards this cause and let me know how you heard about this initiative.</b>
+       I am yet to register as 501 (c)(3) and set up a proper donation page.  
+       At present, I am only accepting contributions from friends, family and acquaintances, with a limit of $50 per contribution. </p>
+   
+       <p>We have recieved $200 so far! We are still $700 away from our goal.
+       <b>Thank you to all those who have donated to our mission:</b></p>
+   
+       <i>Mr. Dilip, Mr. Arunachalam Sundararaman, Mrs. Sushmitha Nitoor, Ms. K.O. </i>
 
 
 
@@ -73,7 +78,6 @@ permalink: /about/
 
     <!-- This is a comment -->
     <!-- <h2 class="footer-heading">Universal Health Access Foundation</h2> -->
-
 
     
 
