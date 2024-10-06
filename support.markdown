@@ -60,9 +60,12 @@ permalink: /support/
    
        <p>We have recieved $200 so far! We are still $700 away from our goal.
        <b>Thank you to all those who have donated to our mission:</b></p>
-   
-       <i>Mr. Dilip, Mr. Arunachalam Sundararaman, Mrs. Sushmitha Nitoor, Ms. K.O. </i>
-
+<ul>
+  <li>Mr. Dilip</li>
+  <li>Mr. Arunachalam Sundararaman</li>
+  <li>Mrs. Sushmitha Nitoor</li>
+  <li>Mrs. K.O.</li>
+</ul>
 
 
 

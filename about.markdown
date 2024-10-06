@@ -51,7 +51,7 @@ permalink: /about/
    <p> I am <b>Neelansh Bhandari</b>, currently a rising freshman at Skyline High School in Sammamish, Washington.</p>
          
     
-    <p>I love interacting with people and these interactions along with my personal experiences living in 3 continents have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. If you share the same passion, I encourage you to join me in this initiative or donate a small amount that can be used to provide free medical care and support to the remotest parts of the world.</p>
+    <p>I love interacting with people and these interactions, along with my personal experiences living in 3 continents, have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. If you share the same passion, I encourage you to join me in this initiative or <a href="{{site.baseurl }}/support/"><b>DONATE A SMALL AMOUNT</b></a> that can be used to provide free medical care and support to the remotest parts of the world.</p>
        
     
     <p>
