@@ -51,24 +51,24 @@ permalink: /support/
        <p>Currently, I am raising funds for two free medical camps for the underprivileged in remote and rural areas of Western Rajasthan, India. I will be there this December and will lead the camps in-person. I will post pictures and stories of people who benefited from this initiative. You can read more about this initiative <a href="{{ site.baseurl }}/"><b>HERE</b></a>.</p>
        
       
-<p>My goal is to collect $900 that will cover the cost of transportation and snacks for a team of doctors and their shpport staff, medicines and spreading awareness about the camps. </p>
+        <p>My goal is to collect $900 that will cover the cost of transportation and snacks for a team of doctors and their shpport staff, medicines and spreading awareness about the camps. </p>
        
    
        <p><b>Contact me at uhaf24@gmail.com to donate towards this cause and let me know how you heard about this initiative.</b>
        I am yet to register as 501 (c)(3) and set up a proper donation page.  
        At present, I am only accepting contributions from friends, family and acquaintances, with a limit of $50 per contribution. </p>
    
-       <p>We have recieved $200 so far! We are still $700 away from our goal.
+       <p>We have recieved $410 so far! We are still $390 away from our goal.
        <b>Thank you to all those who have donated to our mission:</b></p>
-<ul>
-  <li>Mr. Dilip</li>
-  <li>Mr. Arunachalam Sundararaman</li>
-  <li>Mrs. Sushmitha Nitoor</li>
-  <li>Mrs. K.O.</li>
-</ul>
-
-
-
+    
+    <ul>
+      <li>Mr. Dilip</li>
+      <li>Mr. Arunachalam Sundararaman</li>
+      <li>Mrs. Sushmitha Nitoor</li>
+      <li>Mrs. K.O.</li>
+      <li>Mrs. Juhi S</li>
+      <li>Tejal and Roshan Dhananka</li>  
+    </ul>
   </div>
 
 </article>
