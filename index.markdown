@@ -12,7 +12,6 @@ Currently, I am raising funds for two free medical camps for the underprivileged
 
 I need your help and support to make a difference and bring positive impact to people's lives. Join me in my quest to make healthcare available and accessible to everyone, with this ancient Sanskrit mantra serving as our guiding light:  
 
-
 *sarve bhavantu sukhinaḥ  
 sarve santu nirāmayāḥ  
 sarve bhadrāṇi paśyantu   
