@@ -5,7 +5,39 @@ date:   2024-12-16 01:05:17 -0700
 categories: jekyll update
 ---
 
-<p>Jodhpur is a beautiful city in the heart of Rajasthan. Its named the blue city due to its rich and vibrant blue hues painted all over houses. This look makes it one of the of the world's most unique citites. The food in Jodhpur is known all over the world, and its history is mesmerizing to learn. However, like in all cities across the world, Jodhpur has a lot of homelessness. This is why, I am partnering with Dr. Siddharth Lodha at Kings Hospital in Jodhpur to make medicine and doctors accessible to all. We will provide checkups, diagnosis, and required drugs for all who come. Even a donation as little as $5 dollars could make a difference in people's lives.</p>
+Jodhpur, with its iconic blue-painted houses and a legacy rich in culture and history, is a city brimming with life and stories. Yet, like many places, it faces challenges, and one of this which is the most pressing is having access to affordable healthcare. To help address this, I partnered with **Dr. Siddharth Lodha, Dr. Sangeeta Lodha, Soul Foundation, and Kings Hospital to organize a free medical camp on December 22, 2024**. The camp aimed to provide checkups, diagnoses, and essential medications to as many people as possible, ensuring that quality care reached those in need.
+
+The camp was a resounding success, with 136 patients benefiting from the initiative. Over 130 patients were tested for diabetes, 74 underwent ECG tests, 120 had bone density tests, and 87 received lung function tests using PFT machines. The camp brought together an incredible team of medical professionals, including Dr. Sunil Arora, the ASGI Hospital eye care team, and experts from Vyas Dental Medical College, who conducted thorough dental checkups. Dietitian Jyoti Gehlot and Dr. Ajay Trivedi also offered their invaluable services, providing tailored advice and care for patients.
+
+Among the patients was **Pankaj Jain**, a 49-year-old resident of Jodhpur living with diabetes for two years. The camp gave him access to a comprehensive health check, during which he discovered other underlying issues he hadn’t been aware of. The relief on his face was evident as he shared how much the initiative meant to him, allowing him to prioritize his health and use his limited resources to invest in his family’s future.
+
+Another inspiring story was that of **Dheerendra Singh**, a 60-year-old retired army officer working as a bank security guard. With retirement approaching, he dreams of becoming a driver to supplement his income. At the camp, he received a full health checkup, which gave him peace of mind about his condition. Touched by the impact of the camp, Dheerendra offered to assist with transportation arrangements for future camps once his driving business is operational.
+
+This event wouldn’t have been possible without the unwavering dedication of the doctors, staff, and volunteers. Their efforts ensured that every patient received compassionate care in a well-coordinated setup.
+
+While the camp was a great success, it also provided important learnings. Several attendees suggested expanding these efforts, and I’ve already received requests to hold similar camps in **Mathura, Uttar Pradesh and Bikaner, Rajasthan** To meet the growing demand, I plan to start campaigns earlier and raise more funds, as this camp cost **$450** but we could only collect **$250**. Thankfully, the support of Soul Foundation and other generous contributors made this initiative a reality.
+
+As we move forward, I’m deeply grateful for everyone who contributed to this mission, and I’m inspired to continue making a difference. Together, we can build healthier, more compassionate communities, one step at a time.
+
+
+![jodhpur]({{site.baseurl}}/images/mappy.png)
+
+![1]({{site.baseurl}}/images/grouppic.jpg)
+
+![2]({{site.baseurl}}/images/poster.jpg)
+
+![3]({{site.baseurl}}/images/meds.jpg)
+
+![7]({{site.baseurl}}/images/bpmeasure.jpg)
+
+![6]({{site.baseurl}}/images/eyes.jpg)
+
+![4]({{site.baseurl}}/images/observe.jpg)
+
+![5]({{site.baseurl}}/images/news.jpg)
+
+![6]({{site.baseurl}}/images/shake.jpg)
+
 
 **Contact me at *uhaf24@gmail.com* to donate towards this cause and let me know how you heard about this initiative.**  
 I am yet to register as 501 (c)(3) and set up a proper donation page.  

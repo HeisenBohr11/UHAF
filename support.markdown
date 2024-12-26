@@ -58,7 +58,7 @@ permalink: /support/
        I am yet to register as 501 (c)(3) and set up a proper donation page.  
        At present, I am only accepting contributions from friends, family and acquaintances, with a limit of $50 per contribution. </p>
    
-       <p>We have recieved $410 so far! We are still $390 away from our goal.
+       <p>We have recieved $510 so far! We are still $390 away from our goal.
        <b>Thank you to all those who have donated to our mission:</b></p>
     
     <ul>
