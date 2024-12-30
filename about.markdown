@@ -62,11 +62,19 @@ permalink: /about/
    <p> I am <b>Neelansh Bhandari</b>, currently a rising freshman at Skyline High School in Sammamish, Washington.</p>
          
     
-    <p>I love interacting with people and these interactions, along with my personal experiences living in 3 continents, have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. If you share the same passion, I encourage you to join me in this initiative or <a href="{{site.baseurl }}/support/"><b>DONATE A SMALL AMOUNT</b></a> that can be used to provide free medical care and support to the remotest parts of the world.</p>
-       
+    <p>I love interacting with people and these interactions, along with my personal experiences living in 3 continents, have taught me that there are many on our planet who still don't have access to basic medical care. While there are many large organizations that try to help, I want to do my bit to bring quality medical care to those who need it the most. This is why I founded the <a href="{{site.baseurl }}/"><b>United Health Access Foundation</b></a>. If you share the same passion, I encourage you to join me in this initiative or <a href="{{site.baseurl }}/support/"><b>DONATE A SMALL AMOUNT</b></a> that can be used to provide free medical care and support to the remotest parts of the world. </p>
+    
     
     <p>
-       I am interested in Greek and Indian mythology, science and maths. During my time at Beaver Lake Middle School, I founded the Science Olympiad Club and captained the Science Bowl team. I also founded and served as the president of our school's math club. I enjoy reading, swimming, hiking, competing in Jiu Jitsu, playing cricket and learning. </p>
+    During 2024, we have already hosted 2 camps, one in <a href="{{site.baseurl }}/jekyll/update/2024/12/15/Barmer.html"><b>a remote village on Rajasthan's western border</b></a> and the other in <a href="{{site.baseurl }}/jekyll/update/2024/12/16/jodhpur.html"><b>the city of Jodhpur</b></a>. Between the two camps, I was able to aid in providing medical care to 392 people.</p>
+       
+           
+          <p>
+          I am interested in Greek and Indian mythology, science and maths. During my time at Beaver Lake Middle School, I founded the Science Olympiad Club and captained the Science Bowl team. I also founded and served as the president of our school's math club. I enjoy reading, swimming, hiking, competing in Jiu Jitsu, playing cricket and learning.
+           </p>
+
+
+  
        
 
 
