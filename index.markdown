@@ -4,6 +4,21 @@
 
 layout: home
 ---
+
+<html lang="en"><head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JDKBBVMB6L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JDKBBVMB6L');
+</script> 
+</head>
+</html>
+
 The Universal Health Access Foundation (**UHAF**) is a non profit organization which is dedicated to providing care to those who require it. We beleive that each and every person should have food, water, shelter, and medical care. Our mission is to make sure that we are able to help those we can and start a movement which will improve the lifestyle of many people. 
 
 I created this initiative as a way to bring awareness and help people who are having trouble trying to get their basic human needs. You can read more about this and me [**here**]({{ site.baseurl }}/about).
