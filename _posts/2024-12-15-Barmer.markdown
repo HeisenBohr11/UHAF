@@ -4,6 +4,21 @@ title:  "A medical camp in a remote village on India's western border on Dec 15,
 date:   2024-12-15 01:05:17 -0700
 categories: jekyll update
 ---
+
+<html lang="en"><head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JDKBBVMB6L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JDKBBVMB6L');
+</script> 
+</head>
+</html>
+
 <p>Along the western border of India lies Rajasthan. Rajasthan is a massive state where most of the land is a desert. But on this dry expanse, the incredible natives have created a mystical culture, spectacular folklore, and delicious cuisines. And on the western most end of this western state, lies the city of Barmer. This city is where my father grew up and I have visited it many times. However, near Barmer, there are  many small villages and hamlets, where people have more limited means and are miles away from quality healthcare facilities. I wanted to be able to play a tiny part in improving the quality of life of people living in these remote parts, and I decided to host a medical camp in the village of Gadra Road (highlighted in the map below) by bringing a team of experienced medical professionals and free medicines. Many generous souls came forward by donating for the cause which helped cover the expenses. On site, I teamed up with the local chapter of the amazing Lion's Club, and the Maheshwari Samaj, who kindly provided us with their community's premises and made other arrangements such as food for the visiting doctors. Together, we were able to provide quality medical care to the people in and around this village. </p>
 
 This camp (pictures below) benefited more than 250 people who needed medical care but were unable to access it for various personal, logistical or financial reasons. **Jaswadan,** a 78-year old man, is one such  beneficary. He lives in a hamlet near Gadra Road. He and his extended family (wife, 2 children + their spouces, and 4 grandchildren) are supported by his son who is a construction laborer. Jaswadan has been suffering from severe pain in the neck for over 3 months and has trouble sleeping. He is unable to afford the 100 rupees bus ride to the city of Barmer, where high quality medical care is available. He says that he is thankful for the medical camp and wishes that such events could be conducted more frequently to benefit others like himself. **Himanshu** is a 15-year old boy who has lived his entire life in Gadra Road. He dreams of becoming an IPS (Indian Police Service) officer. He has been having severe headaches continuously over the course of 2 months and has gone to the local hospitals but could not get cured. The doctors were able to examine him and offer medicinal help.
@@ -24,7 +39,7 @@ This event was an eye-opening experience for me. I was able to see first-hand, t
 
 ![6]({{site.baseurl}}/images/20241215BMR6.jpg)
 
-![4]({{site.baseurl}}/images/20241215BMR4.jpg)
+![4]({{site.baseurl}}/images/20241215BMR4.jpg
 
 ![5]({{site.baseurl}}/images/20241215BMR5.jpg)
 

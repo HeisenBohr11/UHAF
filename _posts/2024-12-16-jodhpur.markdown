@@ -5,6 +5,20 @@ date:   2024-12-16 01:05:17 -0700
 categories: jekyll update
 ---
 
+<html lang="en"><head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JDKBBVMB6L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JDKBBVMB6L');
+</script> 
+</head>
+</html>
+
 Jodhpur, with its iconic blue-painted houses and a legacy rich in culture and history, is a city brimming with life and stories. Yet, like many places, it faces challenges, and one of these which is the most pressing is having access to affordable healthcare. To help address this, I partnered with **Dr. Siddharth Lodha, Dr. Sangeeta Lodha, Soul Foundation, and Kings Hospital to organize a medical camp on December 22, 2024**. The camp aimed to provide checkups, diagnoses, and essential medications, at no costs, and to as many people as possible, ensuring that quality care reached those in need.
 
 The camp was a resounding success, with 136 patients benefiting from the initiative. Over 130 patients were tested for diabetes, 74 underwent ECG tests, 120 had bone density tests, and 87 received lung function tests using PFT machines. The camp brought together an incredible team of medical professionals, including Dr. Sunil Arora, the ASGI Hospital eye care team, and experts from Vyas Dental Medical College, who conducted thorough dental checkups. Dietitian Jyoti Gehlot and Dr. Ajay Trivedi also offered their invaluable services, providing tailored advice and care for patients.
